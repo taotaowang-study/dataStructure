@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="stack" />
+        <module name="single_linked_list" />
+        <module name="dataStructure" />
+        <module name="double_linked_list" />
+        <module name="circular_linked_ist" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="circular_linked_ist" options="" />
+      <module name="double_linked_list" options="" />
+      <module name="single_linked_list" options="" />
+      <module name="stack" options="" />
+    </option>
+  </component>
+</project>
